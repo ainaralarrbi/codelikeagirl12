@@ -1,3 +1,24 @@
 h1{
-  color: blue;
+  color: hsl(0, 40%, 50%);
+  text-align: center;
+  font-family: verdana;
 }
+h2{
+  color:
+}
+img{
+    height: 300px;
+    width: 300px;
+    border: solid 10px black;
+  }
+  #first{
+    height: 200px;
+    width: 200px;
+    border: 0
+  }
+  p  {
+      color: black;
+      font-family: sans-serif;
+      font-size: 120%;
+      margin: 50px;
+  }
